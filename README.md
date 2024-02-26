@@ -1,4 +1,4 @@
-<p align="center">Serwer na ktorym graja: EZEL (Shinsoo)</p>
+<p align="center">Serwer na ktorym graja: Turcja > EZEL (Shinsoo)</p>
 
 # Stremerzy
 | Nick | Twitch/Kick | Discord |
